@@ -15,4 +15,8 @@ Current GitHub builds target 64-bit Android devices (`arm64-v8a`) and may be mar
 - Verify the published SHA-256 checksum before installation.
 - Back up wallet recovery information securely before replacing or removing an installed wallet.
 
-GitHub APKs use the Android signing credentials managed by EAS. A future Google Play build may use a different Play App Signing certificate and therefore may not update this installation in place.
+GitHub APKs use the Android signing credentials managed by EAS. Current signing certificate SHA-256:
+
+`64:DE:F5:E4:D5:5F:F2:14:49:28:2B:E0:0D:12:EE:FE:E2:8E:29:AE:6C:9B:1A:D4:08:B6:2C:82:34:EE:EC:1A`
+
+A future Google Play build may use a different Play App Signing certificate and therefore may not update this installation in place.
