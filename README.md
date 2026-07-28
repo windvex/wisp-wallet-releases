@@ -1,6 +1,6 @@
 # Wisp Wallet for Android
 
-[![APK downloads](https://img.shields.io/github/downloads-pre/windvex/wisp-wallet-releases/latest/wisp-wallet-v1.0.0-github.4-arm64.apk?label=APK%20downloads&displayAssetName=false&color=2ea44f)](https://github.com/windvex/wisp-wallet-releases/releases)
+[![APK downloads](https://img.shields.io/github/downloads-pre/windvex/wisp-wallet-releases/latest/wisp-wallet-v1.0.0-github.5-arm64.apk?label=APK%20downloads&displayAssetName=false&color=2ea44f)](https://github.com/windvex/wisp-wallet-releases/releases)
 
 Official APK distribution repository for Wisp Wallet while Google Play distribution is being prepared.
 
