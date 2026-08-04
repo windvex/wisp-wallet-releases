@@ -9,7 +9,7 @@ on:
       - released
       - prereleased
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "23 * * * *"
   push:
     branches:
       - main
@@ -42,6 +42,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-download-stats.mjs
+
+      - name: Record verification summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "### APK download statistics"
+            echo
+            echo "Checked at: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            echo
+            if [ -f download-stats.json ]; then
+              echo "Repository snapshot:"
+              echo
+              echo '```json'
+              jq '{totalDownloads, totalVersions, versions: [.versions[] | {tag, downloads}]}' download-stats.json
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit changed statistics
         shell: bash
