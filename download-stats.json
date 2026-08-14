@@ -1,7 +1,7 @@
 {
   "repository": "windvex/wisp-wallet-releases",
-  "generatedAt": "2026-08-14T16:09:40.344Z",
-  "totalDownloads": 62,
+  "generatedAt": "2026-08-14T18:11:18.545Z",
+  "totalDownloads": 63,
   "totalVersions": 7,
   "totalAssets": 8,
   "versions": [
@@ -96,11 +96,11 @@
       "publishedAt": "2026-08-04T13:19:08Z",
       "prerelease": true,
       "url": "https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.6",
-      "downloads": 4,
+      "downloads": 5,
       "apkAssets": [
         {
           "name": "wisp-wallet-v1.0.0-github.6-arm64.apk",
-          "downloads": 4,
+          "downloads": 5,
           "size": 67181882,
           "updatedAt": "2026-08-04T13:19:07Z",
           "url": "https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.6/wisp-wallet-v1.0.0-github.6-arm64.apk"
