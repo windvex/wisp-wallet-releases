@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title description">
   <title id="title">Wisp Wallet APK downloads by version</title>
-  <desc id="description">Bar chart generated from GitHub release asset download counts. Total 67 downloads across 7 versions.</desc>
+  <desc id="description">Bar chart generated from GitHub release asset download counts. Total 68 downloads across 7 versions.</desc>
   <style>
     .title { font: 700 24px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
     .subtitle,.axis { font: 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #59636e; }
@@ -42,8 +42,8 @@
   <rect x="250" y="254" width="65.05" height="26" rx="6" fill="#2ea44f"/>
   <text x="325.05" y="273" class="value">4</text>
   <text x="236" y="317" text-anchor="end" class="label">v1.0.0-github.6 · prerelease</text>
-  <rect x="250" y="298" width="81.32" height="26" rx="6" fill="#2ea44f"/>
-  <text x="341.32" y="317" class="value">5</text>
+  <rect x="250" y="298" width="97.58" height="26" rx="6" fill="#2ea44f"/>
+  <text x="357.58" y="317" class="value">6</text>
   <text x="236" y="361" text-anchor="end" class="label">v1.0.0-github.7 · prerelease</text>
   <rect x="250" y="342" width="309.00" height="26" rx="6" fill="#2ea44f"/>
   <text x="569.00" y="361" class="value">19</text>
