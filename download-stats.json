@@ -1,7 +1,7 @@
 {
   "repository": "windvex/wisp-wallet-releases",
-  "generatedAt": "2026-09-19T18:06:54.437Z",
-  "totalDownloads": 115,
+  "generatedAt": "2026-09-20T16:53:04.360Z",
+  "totalDownloads": 122,
   "totalVersions": 7,
   "totalAssets": 8,
   "versions": [
@@ -113,18 +113,18 @@
       "publishedAt": "2026-08-05T13:15:16Z",
       "prerelease": true,
       "url": "https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.7",
-      "downloads": 61,
+      "downloads": 68,
       "apkAssets": [
         {
           "name": "wisp-wallet-v1.0.0-github.7-arm64.apk",
-          "downloads": 5,
+          "downloads": 7,
           "size": 67202178,
           "updatedAt": "2026-08-05T13:15:15Z",
           "url": "https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-arm64.apk"
         },
         {
           "name": "wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk",
-          "downloads": 56,
+          "downloads": 61,
           "size": 58222770,
           "updatedAt": "2026-08-05T14:54:00Z",
           "url": "https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk"
