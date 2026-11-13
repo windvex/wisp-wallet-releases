@@ -1,8 +1,8 @@
 # Wisp Wallet download statistics
 
-Updated: **2026-11-13T00:37:29.699Z**
+Updated: **2026-11-13T01:57:59.078Z**
 
-- Total APK downloads: **140**
+- Total APK downloads: **149**
 - Versions with APK assets: **8**
 - Uploaded APK assets counted: **9**
 
@@ -12,14 +12,14 @@ Updated: **2026-11-13T00:37:29.699Z**
 
 | Version | Published (UTC) | Channel | APK assets | Downloads |
 |---|---:|---|---:|---:|
-| [v1.0.1-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.1-github.5) | 2026-11-13 | Prerelease | 1 | **0** |
-| [v1.0.0-github.7](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.7) | 2026-08-05 | Prerelease | 2 | **77** |
-| [v1.0.0-github.6](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.6) | 2026-08-04 | Prerelease | 1 | **12** |
-| [v1.0.0-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.5) | 2026-07-28 | Prerelease | 1 | **4** |
-| [v1.0.0-github.4](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.4) | 2026-07-26 | Prerelease | 1 | **42** |
-| [v1.0.0-github.3](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.3) | 2026-07-22 | Prerelease | 1 | **0** |
-| [v1.0.0-github.2](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.2) | 2026-07-21 | Prerelease | 1 | **0** |
-| [v1.0.0-github.1](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.1) | 2026-07-19 | Prerelease | 1 | **5** |
+| [v1.0.1-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.1-github.5) | 2026-11-13 | Prerelease | 1 | **1** |
+| [v1.0.0-github.7](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.7) | 2026-08-05 | Prerelease | 2 | **79** |
+| [v1.0.0-github.6](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.6) | 2026-08-04 | Prerelease | 1 | **13** |
+| [v1.0.0-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.5) | 2026-07-28 | Prerelease | 1 | **5** |
+| [v1.0.0-github.4](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.4) | 2026-07-26 | Prerelease | 1 | **43** |
+| [v1.0.0-github.3](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.3) | 2026-07-22 | Prerelease | 1 | **1** |
+| [v1.0.0-github.2](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.2) | 2026-07-21 | Prerelease | 1 | **1** |
+| [v1.0.0-github.1](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.1) | 2026-07-19 | Prerelease | 1 | **6** |
 
 ## Exact asset counts
 
@@ -27,50 +27,50 @@ Updated: **2026-11-13T00:37:29.699Z**
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.1-github.5-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.1-github.5/wisp-wallet-v1.0.1-github.5-arm64.apk) | 52.7 MB | 0 |
+| [wisp-wallet-v1.0.1-github.5-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.1-github.5/wisp-wallet-v1.0.1-github.5-arm64.apk) | 52.7 MB | 1 |
 
 ### v1.0.0-github.7
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.7-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-arm64.apk) | 64.1 MB | 12 |
-| [wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk) | 55.5 MB | 65 |
+| [wisp-wallet-v1.0.0-github.7-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-arm64.apk) | 64.1 MB | 13 |
+| [wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.7/wisp-wallet-v1.0.0-github.7-armeabi-v7a.apk) | 55.5 MB | 66 |
 
 ### v1.0.0-github.6
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.6-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.6/wisp-wallet-v1.0.0-github.6-arm64.apk) | 64.1 MB | 12 |
+| [wisp-wallet-v1.0.0-github.6-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.6/wisp-wallet-v1.0.0-github.6-arm64.apk) | 64.1 MB | 13 |
 
 ### v1.0.0-github.5
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.5-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.5/wisp-wallet-v1.0.0-github.5-arm64.apk) | 64.0 MB | 4 |
+| [wisp-wallet-v1.0.0-github.5-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.5/wisp-wallet-v1.0.0-github.5-arm64.apk) | 64.0 MB | 5 |
 
 ### v1.0.0-github.4
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.4-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.4/wisp-wallet-v1.0.0-github.4-arm64.apk) | 64.0 MB | 42 |
+| [wisp-wallet-v1.0.0-github.4-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.4/wisp-wallet-v1.0.0-github.4-arm64.apk) | 64.0 MB | 43 |
 
 ### v1.0.0-github.3
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.3-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.3/wisp-wallet-v1.0.0-github.3-arm64.apk) | 63.4 MB | 0 |
+| [wisp-wallet-v1.0.0-github.3-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.3/wisp-wallet-v1.0.0-github.3-arm64.apk) | 63.4 MB | 1 |
 
 ### v1.0.0-github.2
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.2-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.2/wisp-wallet-v1.0.0-github.2-arm64.apk) | 63.4 MB | 0 |
+| [wisp-wallet-v1.0.0-github.2-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.2/wisp-wallet-v1.0.0-github.2-arm64.apk) | 63.4 MB | 1 |
 
 ### v1.0.0-github.1
 
 | APK asset | Size | Downloads |
 |---|---:|---:|
-| [wisp-wallet-v1.0.0-github.1-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.1/wisp-wallet-v1.0.0-github.1-arm64.apk) | 63.4 MB | 5 |
+| [wisp-wallet-v1.0.0-github.1-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.0-github.1/wisp-wallet-v1.0.0-github.1-arm64.apk) | 63.4 MB | 6 |
 
 ## Method
 
