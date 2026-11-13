@@ -1,10 +1,10 @@
 # Wisp Wallet download statistics
 
-Updated: **2026-10-29T21:52:26.576Z**
+Updated: **2026-11-13T00:37:29.699Z**
 
 - Total APK downloads: **140**
-- Versions with APK assets: **7**
-- Uploaded APK assets counted: **8**
+- Versions with APK assets: **8**
+- Uploaded APK assets counted: **9**
 
 > GitHub counts downloads per release asset. These figures are not unique users, devices, or installations. Only uploaded `.apk` assets are included; drafts, checksums, source archives, and non-APK files are excluded.
 
@@ -12,6 +12,7 @@ Updated: **2026-10-29T21:52:26.576Z**
 
 | Version | Published (UTC) | Channel | APK assets | Downloads |
 |---|---:|---|---:|---:|
+| [v1.0.1-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.1-github.5) | 2026-11-13 | Prerelease | 1 | **0** |
 | [v1.0.0-github.7](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.7) | 2026-08-05 | Prerelease | 2 | **77** |
 | [v1.0.0-github.6](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.6) | 2026-08-04 | Prerelease | 1 | **12** |
 | [v1.0.0-github.5](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.5) | 2026-07-28 | Prerelease | 1 | **4** |
@@ -21,6 +22,12 @@ Updated: **2026-10-29T21:52:26.576Z**
 | [v1.0.0-github.1](https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.0-github.1) | 2026-07-19 | Prerelease | 1 | **5** |
 
 ## Exact asset counts
+
+### v1.0.1-github.5
+
+| APK asset | Size | Downloads |
+|---|---:|---:|
+| [wisp-wallet-v1.0.1-github.5-arm64.apk](https://github.com/windvex/wisp-wallet-releases/releases/download/v1.0.1-github.5/wisp-wallet-v1.0.1-github.5-arm64.apk) | 52.7 MB | 0 |
 
 ### v1.0.0-github.7
 
