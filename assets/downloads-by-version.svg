@@ -62,7 +62,7 @@
   <text x="236" y="581" text-anchor="end" class="label">v1.0.1-github.9 · prerelease</text>
   <rect x="250" y="562" width="39.11" height="26" rx="6" fill="#2ea44f"/>
   <text x="299.11" y="581" class="value">5</text>
-  <text x="236" y="625" text-anchor="end" class="label">v1.0.1-github.10 · prerelease</text>
+  <text x="236" y="625" text-anchor="end" class="label">v1.0.1-github.10</text>
   <rect x="250" y="606" width="1.00" height="26" rx="6" fill="#2ea44f"/>
   <text x="261.00" y="625" class="value">0</text>
   <text x="559" y="694" text-anchor="middle" class="axis">Downloads</text>

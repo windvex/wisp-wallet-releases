@@ -1,6 +1,6 @@
 {
   "repository": "windvex/wisp-wallet-releases",
-  "generatedAt": "2026-11-14T16:14:40.978Z",
+  "generatedAt": "2026-11-14T16:18:31.437Z",
   "totalDownloads": 163,
   "totalVersions": 13,
   "totalAssets": 14,
@@ -218,9 +218,9 @@
     },
     {
       "tag": "v1.0.1-github.10",
-      "name": "Wisp Wallet v1.0.1-github.10",
+      "name": "Wisp Wallet 1.0.1 Stable (Android build 19)",
       "publishedAt": "2026-11-14T16:14:21Z",
-      "prerelease": true,
+      "prerelease": false,
       "url": "https://github.com/windvex/wisp-wallet-releases/releases/tag/v1.0.1-github.10",
       "downloads": 0,
       "apkAssets": [
