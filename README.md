@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/windvex/wisp-wallet-releases/releases/latest"><img src="./assets/readme/download-android.svg" alt="Download Wisp Wallet for Android" width="246" height="54" /></a>
   &nbsp;
-  <a href="https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.3"><img src="./assets/readme/download-chrome.svg" alt="Download Wisp Wallet for Chrome — Preview" width="246" height="54" /></a>
+  <a href="https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.4"><img src="./assets/readme/download-chrome.svg" alt="Download Wisp Wallet for Chrome — Preview" width="246" height="54" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Manage VEX native and EVM accounts, send and receive assets, and connect to DApp
 | :--- | :--- |
 | **Stable release** | **Preview release** |
 | A mobile wallet with a DApp browser and Vexanium resource management. | Accounts, transfers, DApp connections, and Vexanium resources in your browser. |
-| [Download Android APK](https://github.com/windvex/wisp-wallet-releases/releases/latest) | [Download Chrome extension](https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.3) |
+| [Download Android APK](https://github.com/windvex/wisp-wallet-releases/releases/latest) | [Download Chrome extension](https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.4) |
 
 Android downloads are available as APK files for 64-bit devices. The Chrome preview is installed manually from the extension ZIP.
 
@@ -62,7 +62,7 @@ To update, install the newer APK over your existing installation.
 
 ### Chrome
 
-1. Open the [Chrome release](https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.3) and download the file named `wisp-wallet-extension-*.zip`.
+1. Open the [Chrome release](https://github.com/windvex/wisp-wallet-releases/releases/tag/wisp-extension-v0.2.4) and download the file named `wisp-wallet-extension-*.zip`.
 2. Extract it to a permanent folder.
 3. Open `chrome://extensions` and enable **Developer mode**.
 4. Select **Load unpacked**, choose the extracted folder, and pin Wisp to your toolbar.
